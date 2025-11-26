@@ -1,0 +1,5 @@
+{
+  "name": " Loan Repayment ",
+  "description": "A comprehensive loan repayment data entry system with dynamic line items, auto-calculation, and submission history tracking.",
+  "requestFramePermissions": []
+}
